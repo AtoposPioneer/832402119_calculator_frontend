@@ -4,6 +4,8 @@ This repository contains the frontend page for the Software Engineering Practice
 
 Student ID: `832402119`
 
+Student Name: `Jingling Wang`
+
 GitHub username: `AtoposPioneer`
 
 ## Features
